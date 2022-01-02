@@ -1,0 +1,26 @@
+.name {
+    color: blue;
+    background-color: yellow;
+    display: inline;
+}
+
+.about{ 
+    background-color: aliceblue;
+    border: 2px solid black;
+    width: 500px;
+    border-radius: 20px;
+    margin: 10px 50px;
+    padding: 15px;
+    margin:0 auto;
+    width: 50%;
+   
+}
+.about b{color: turquoise;}
+
+.information{
+    margin-top: 30px;
+    margin:0 auto;
+    width: 50%;
+
+
+}
