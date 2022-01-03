@@ -1,3 +1,6 @@
+.Name-Image b{
+        text-transform:uppercase;
+}
 .name {
     color: blue;
     background-color: yellow;
